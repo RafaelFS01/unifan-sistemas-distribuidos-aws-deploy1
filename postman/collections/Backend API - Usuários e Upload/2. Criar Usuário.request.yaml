@@ -1,0 +1,14 @@
+$kind: http-request
+url: "{{base_url}}/usuarios"
+method: POST
+headers:
+  Content-Type: application/json
+body:
+  type: text
+  content: |-
+    {
+      "nome": "Maria Silva",
+      "email": "maria@exemplo.com",
+      "foto_url": ""
+    }
+order: 2000

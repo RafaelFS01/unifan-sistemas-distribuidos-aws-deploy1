@@ -1,0 +1,12 @@
+$kind: http-request
+url: "{{base_url}}/usuarios/{{user_id}}"
+method: PUT
+headers:
+  Content-Type: application/json
+body:
+  type: text
+  content: |-
+    {
+      "nome": "Maria Silva Atualizada"
+    }
+order: 5592

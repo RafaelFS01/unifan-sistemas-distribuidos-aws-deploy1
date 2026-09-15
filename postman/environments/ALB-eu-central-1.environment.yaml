@@ -1,0 +1,4 @@
+name: ALB-eu-central-1
+values:
+  - key: base_url
+    value: ''

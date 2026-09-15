@@ -1,0 +1,4 @@
+name: Route53 DNS
+values:
+  - key: base_url
+    value: ''

@@ -1,0 +1,4 @@
+name: EC2-eu-central-1
+values:
+  - key: base_url
+    value: ''

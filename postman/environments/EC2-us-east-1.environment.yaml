@@ -1,0 +1,4 @@
+name: EC2-us-east-1
+values:
+  - key: base_url
+    value: ''

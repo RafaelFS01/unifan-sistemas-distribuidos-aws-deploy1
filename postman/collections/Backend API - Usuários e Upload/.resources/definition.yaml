@@ -1,0 +1,5 @@
+$kind: collection
+description: Coleção para testar a API REST de utilizadores com integração S3.
+variables:
+  base_url: http://localhost:3000
+  user_id: "1"
